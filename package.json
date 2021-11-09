@@ -1,9 +1,8 @@
 {
   "name": "react-native-country-flag",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "This is a React-Native package to display every 254 Country flags with the ISO 3166-1 alpha-2 Standard!",
-  "main": "./dist/cjs/index.js",
-  "module": "./dist/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
     "prepublish": "npm run build"
