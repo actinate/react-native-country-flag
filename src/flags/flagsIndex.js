@@ -32,6 +32,7 @@ export const jp = require("./jp.png");
 export const li = require("./li.png");
 export const lu = require("./lu.png");
 export const mx = require("./mx.png");
+export const mt = require("./mt.png");
 export const nl = require("./nl.png");
 export const no = require("./no.png");
 export const nz = require("./nz.png");
